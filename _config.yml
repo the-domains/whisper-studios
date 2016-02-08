@@ -1,9 +1,19 @@
-layout_spectrum: 0
-typography_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9363084
+  brandStrength: 1
   lightness: 0.1761985
-  brandStrength: 0.5583253
   brandColors:
     - '#030201'
     - '#423830'
@@ -11,4 +21,6 @@ color:
     - '#928776'
     - '#B4B3AD'
   rhythmicContrast: 0.6111111
+typography_spectrum: 1
+layout_spectrum: 0
 name: Whisper Studios
