@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 1
+color:
+  saturation: 0.9363084
+  lightness: 0.1761985
+  brandStrength: 0.5583253
+  brandColors:
+    - '#030201'
+    - '#423830'
+    - '#FCFDFA'
+    - '#928776'
+    - '#B4B3AD'
+  rhythmicContrast: 0.6111111
+name: Whisper Studios
