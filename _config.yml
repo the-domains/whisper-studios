@@ -1,3 +1,7 @@
+name: Whisper Studios
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Whisper Studios
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9363084
-  brandStrength: 1
-  lightness: 0.1761985
   brandColors:
     - '#030201'
     - '#423830'
     - '#FCFDFA'
     - '#928776'
     - '#B4B3AD'
+  brandStrength: 1
+  lightness: 0.1761985
+  saturation: 0.9363084
   rhythmicContrast: 0.6111111
-typography_spectrum: 1
-layout_spectrum: 0
-name: Whisper Studios
+purpose: []
