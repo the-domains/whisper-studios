@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: 'Video by Taylor Blythe Production: Whisper Studios Acoustic/Vocals: David Evans Drums: Luke Cross Keys: Steven Berghoff Bass & Electric Guitar: Jeremy Mang Written by: David Evans and Mitch Gallagher © 2015 David Evans © 2015 Mitch Gallagher ℗ 2015 David Richard Evans ℗ 2015 Mitch Gallagher'
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=_QAg4QA5zKY'
 title: Something About A Love Song (David Evans)
-datePublished: '2016-02-08T16:57:57.918Z'
-dateModified: '2016-02-08T16:57:08.480Z'
+datePublished: '2016-02-08T17:11:54.890Z'
+dateModified: '2016-02-08T17:03:58.399Z'
 sourcePath: _posts/2016-02-08-something-about-a-love-song-david-evans.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
