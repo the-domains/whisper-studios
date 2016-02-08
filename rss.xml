@@ -4,8 +4,15 @@
         <description><![CDATA[Whisper Studios]]></description>
         <link>https://thegrid.ai/whisper-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 17:12:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/whisper-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Something About A Love Song (David Evans)]]></title>
+            <description><![CDATA[<article><h1>Something About A Love Song (David Evans)</h1><p>Video by Taylor Blythe Production: Whisper Studios Acoustic/Vocals: David Evans Drums: Luke Cross Keys: Steven Berghoff Bass & Electric Guitar: Jeremy Mang Written by: David Evans and Mitch Gallagher © 2015 David Evans © 2015 Mitch Gallagher ℗ 2015 David Richard Evans ℗ 2015 Mitch Gallagher</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7279eba891c88f61031c89358ea69b5b35ae14d5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_QAg4QA5zKY</link>
+            <guid isPermaLink="false">78151cc1-e1bb-4c8d-9f11-bf4462653079</guid>
+            <pubDate>Mon, 08 Feb 2016 17:11:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent.ford1-1.fna.fbcdn.net/hphotos-xpa1/t31.0-8/12640506_1032559196807673_5015493469030811405_o.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/whisper-studios/4c8beaef-9898-4276-90fb-cd888a8db2b9/index.html</link>
             <guid isPermaLink="false">4c8beaef-9898-4276-90fb-cd888a8db2b9</guid>
             <pubDate>Mon, 08 Feb 2016 17:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Something About A Love Song (David Evans)]]></title>
-            <description><![CDATA[<article><h1>Something About A Love Song (David Evans)</h1><p>Video by Taylor Blythe Production: Whisper Studios Acoustic/Vocals: David Evans Drums: Luke Cross Keys: Steven Berghoff Bass & Electric Guitar: Jeremy Mang Written by: David Evans and Mitch Gallagher © 2015 David Evans © 2015 Mitch Gallagher ℗ 2015 David Richard Evans ℗ 2015 Mitch Gallagher</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7279eba891c88f61031c89358ea69b5b35ae14d5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_QAg4QA5zKY</link>
-            <guid isPermaLink="false">78151cc1-e1bb-4c8d-9f11-bf4462653079</guid>
-            <pubDate>Mon, 08 Feb 2016 16:57:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
