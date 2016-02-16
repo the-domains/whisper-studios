@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1185164943291446436'
@@ -21,13 +21,17 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/BByjTyVIfSkmGLO-umuBrf2gvicmZV25gc68fQ0/'
 title: 'Recording in the studio! #ICquartet #CD2'
-datePublished: '2016-02-16T04:05:59.968Z'
-dateModified: '2016-02-16T04:03:08.922Z'
+datePublished: '2016-02-16T04:11:52.167Z'
+dateModified: '2016-02-16T04:07:49.679Z'
 sourcePath: _posts/2016-02-16-recording-in-the-studio-icquartet-cd2.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
