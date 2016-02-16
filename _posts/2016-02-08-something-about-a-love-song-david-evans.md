@@ -14,15 +14,15 @@ description: 'Video by Taylor Blythe Production: Whisper Studios Acoustic/Vocals
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=_QAg4QA5zKY'
 title: Something About A Love Song (David Evans)
-datePublished: '2016-02-08T17:11:54.890Z'
-dateModified: '2016-02-08T17:03:58.399Z'
+datePublished: '2016-02-16T03:00:38.543Z'
+dateModified: '2016-02-15T03:34:02.478Z'
 sourcePath: _posts/2016-02-08-something-about-a-love-song-david-evans.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'
