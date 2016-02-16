@@ -24,13 +24,13 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/jkmang'
 title: Whisper Studios
-datePublished: '2016-02-08T17:17:28.744Z'
-dateModified: '2016-02-08T17:17:15.386Z'
+datePublished: '2016-02-16T03:32:28.813Z'
+dateModified: '2016-02-15T03:33:27.536Z'
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-02-08-whisper-studios.md
 published: true
