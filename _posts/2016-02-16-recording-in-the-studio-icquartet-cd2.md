@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T01:32:22.064Z'
-dateModified: '2016-02-22T01:32:21.829Z'
+datePublished: '2016-02-22T15:16:02.622Z'
+dateModified: '2016-02-22T15:15:36.859Z'
 author:
   - name: trhicks715
     url: 'https://www.instagram.com/trhicks715'
@@ -36,4 +36,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
+Instant Classic is back at the studio for their second full length album!  This project has some incredible moments already, and we aren't even done tracking.  With incredible appearances from guest quartets, GQ, and International Silver Medalists Forefront!  This is going to a really amazing project... and there isn't one single instrument used besides the voice.
 ![Recording in the studio&excl; &num;ICquartet &num;CD2](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12627917_1656147157980115_992774412_n.jpg?ig_cache_key=MTE4NTE2NDk0MzI5MTQ0NjQzNg%3D%3D.2)
