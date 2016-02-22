@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BByjTyVIfSkmGLO-umuBrf2gvicmZV25gc68fQ0/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-22T01:32:22.064Z'
+dateModified: '2016-02-22T01:32:21.829Z'
 author:
   - name: trhicks715
     url: 'https://www.instagram.com/trhicks715'
     avatar: {}
 related: []
-publisher:
-  name: Instagram
-  domain: www.instagram.com
-  url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-keywords: []
 app_links:
   - url: 'instagram://media?id=1185164943291446436'
     type: ios
@@ -19,19 +23,15 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/BByjTyVIfSkmGLO-umuBrf2gvicmZV25gc68fQ0/'
 title: 'Recording in the studio! #ICquartet #CD2'
-datePublished: '2016-02-16T04:11:52.167Z'
-dateModified: '2016-02-16T04:07:49.679Z'
 sourcePath: _posts/2016-02-16-recording-in-the-studio-icquartet-cd2.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-description: ''
 authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
