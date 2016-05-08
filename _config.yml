@@ -1,7 +1,7 @@
 name: Whisper Studios
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.51586
+layout_spectrum: 0.74703
+typography_spectrum: 0.49203
 collections:
   - index:
       path: /
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5625
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
