@@ -10,7 +10,11 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
-description: 'Listen to Whisper Studios | Explore the largest community of artists, bands, podcasters and creators of music & audio.. Kokomo. 17 Tracks. 39 Followers. Stream Tracks and Playlists from Whisper Studios on your desktop or mobile device.'
+description: >-
+  Listen to Whisper Studios | Explore the largest community of artists, bands,
+  podcasters and creators of music & audio.. Kokomo. 17 Tracks. 39 Followers.
+  Stream Tracks and Playlists from Whisper Studios on your desktop or mobile
+  device.
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,18 +26,17 @@ app_links:
   - url: 'soundcloud://users:3414631'
     should_fallback: 'false'
     type: web
-isBasedOnUrl: 'https://soundcloud.com/jkmang'
 title: Whisper Studios
-datePublished: '2016-02-16T03:32:28.813Z'
-dateModified: '2016-02-15T03:33:27.536Z'
+datePublished: '2016-07-19T15:45:46.585Z'
+dateModified: '2016-07-19T15:45:46.165Z'
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 authors: []
 sourcePath: _posts/2016-02-08-whisper-studios.md
-published: true
+starred: false
+url: whisper-studios/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
