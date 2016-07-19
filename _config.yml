@@ -1,7 +1,32 @@
-name: Whisper Studios
-favicon: null
-layout_spectrum: 0.51422
 typography_spectrum: 0.49203
+color:
+  brandColors:
+    - '#020202'
+    - '#ffffff'
+    - '#5b5b4d'
+    - '#2b2b25'
+    - '#b3b3aa'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.51422
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/752c254f-7171-429a-bce0-ab1dc597786b.pdf
+name: Whisper Studios
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +40,4 @@ collections:
       format: rss
       number: 10
 title: Whisper Studios
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#020202'
-    - '#ffffff'
-    - '#5b5b4d'
-    - '#2b2b25'
-    - '#b3b3aa'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
 purpose: []
