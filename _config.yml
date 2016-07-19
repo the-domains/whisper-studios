@@ -31,6 +31,10 @@ navigation:
     url: 2016-02-08-4c8beaef-9898-4276-90fb-cd888a8db2b9.html
     name: About us
     type: content
+  - id: 098e04bc-b39a-4878-b2f5-1489edbe42bd
+    url: 2016-02-08-whisper-studios.html
+    name: Sounds
+    type: content
 favicon: null
 collections:
   - index:
