@@ -26,6 +26,11 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: 4c8beaef-9898-4276-90fb-cd888a8db2b9
+    url: 2016-02-08-4c8beaef-9898-4276-90fb-cd888a8db2b9.html
+    name: About us
+    type: content
 favicon: null
 collections:
   - index:
