@@ -1,52 +1,50 @@
-typography_spectrum: 0.5665296949446201
-color:
-  brandColors:
-    - '#020202'
-    - '#ffffff'
-    - '#5b5b4d'
-    - '#2b2b25'
-    - '#b3b3aa'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.51422
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/752c254f-7171-429a-bce0-ab1dc597786b.pdf
-name: Whisper Studios
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - id: 4c8beaef-9898-4276-90fb-cd888a8db2b9
-    url: 2016-02-08-4c8beaef-9898-4276-90fb-cd888a8db2b9.html
-    name: About us
-    type: content
-  - id: 098e04bc-b39a-4878-b2f5-1489edbe42bd
-    url: 2016-02-08-whisper-studios.html
-    name: Sounds
-    type: content
-favicon: null
+title: Whisper Studios
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Whisper Studios
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5
+  brandStrength: 0.25
+  rhythmicContrast: 1
+  brandColors:
+    - '#020202'
+    - '#ffffff'
+    - '#5b5b4d'
+    - '#2b2b25'
+    - '#b3b3aa'
+  lightness: 0.5
+navigation:
+  - id: 4c8beaef-9898-4276-90fb-cd888a8db2b9
+    name: About us
+    type: content
+  - id: 098e04bc-b39a-4878-b2f5-1489edbe42bd
+    name: Sounds
+    type: content
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Whisper Studios
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/752c254f-7171-429a-bce0-ab1dc597786b.pdf
+typography_spectrum: 0.5268817
+layout_spectrum: 0.4193548
